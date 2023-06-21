@@ -1,9 +1,9 @@
 public class ArrayClass{
-	public static void main(String[] args){
-	int[] noOfStudentes = {10,20,30,40,50};
-	System.out.println(noOfStudentes[3]);
-	
-	int[] noOfBooks = {5,6,7,8,9};
+public static void main(String[] args){
+int[] noOfStudents = {10,20,30,40,50};
+System.out.println(noOfStudents[3]);
+
+    int[] noOfBooks = {5,6,7,8,9};
 	System.out.println(noOfBooks[3]);
 	
 	int[] noOfSchools = {1,2,3,4,5};
@@ -127,3 +127,4 @@ public class ArrayClass{
 
 
 }
+	
