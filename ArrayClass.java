@@ -1,4 +1,4 @@
-public class ArraySession{
+public class ArrayClass{
 	public static void main(String[] args){
 	int[] noOfStudentes = {10,20,30,40,50};
 	System.out.println(noOfStudentes[3]);
