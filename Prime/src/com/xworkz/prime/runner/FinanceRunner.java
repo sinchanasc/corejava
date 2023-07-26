@@ -7,9 +7,12 @@ public class FinanceRunner {
 
 	public static void main(String[] args) {
 System.out.println("running main in FinanceRunner");
-		
+
+
+        Object object = new Finance();
+        System.out.println(object);
 		Finance finance = new Finance();
-		System.out.println(finance);
+		System.out.println(finance.toString());
 	
 
 	}
